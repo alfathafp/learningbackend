@@ -10,7 +10,7 @@ function loopAngka() {
     if (i === angka.length - 1) {
       text += angka[i];
     } else {
-      text += angka[i] + "+";
+      text += angka[i] + " + ";
     }
   }
   return text;
