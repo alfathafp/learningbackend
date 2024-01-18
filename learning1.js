@@ -16,6 +16,6 @@ function loopAngka() {
   return text;
 }
 
-'learning git'
+'learning gitgit git'
 
 console.log(`total nilai adalah ${sum} karena ${loopAngka(angka)}`);
